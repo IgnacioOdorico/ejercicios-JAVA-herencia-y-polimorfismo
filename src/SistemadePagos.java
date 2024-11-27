@@ -1,3 +1,5 @@
+import java.util.ArrayList;
+
 /*Ejercicio 2: Sistema de Pagos*/
 abstract class MetodoPago {
     protected String titular;
